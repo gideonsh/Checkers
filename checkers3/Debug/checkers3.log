@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\gideo\source\repos\checkers3\source.c(55): warning C4101: 'source': unreferenced local variable
+  checkers3.vcxproj -> C:\Users\gideo\source\repos\checkers3\Debug\checkers3.exe
